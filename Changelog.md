@@ -402,4 +402,4 @@ Stats preset, default, json and toString are now baked by a plugin system. Conve
 
 ---
 
-lib/CommentCompilationWarning.js
+lib/dependencies/HarmonyExportImportedSpecifierDependency.js
